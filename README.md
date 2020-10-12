@@ -11,4 +11,6 @@
 
 [![Website](https://img.shields.io/badge/-Portifólio-292929?style=for-the-badge&link=gui25.github.io/main/#home)](gui25.github.io/main/#home) 
 
-<p>Oi me chamo Guilherme Bernardo, eu sou um Técnico de Informatica estou terminando o ultimo ano do ensino médio. Já faz alguns anos que eu venho estudando e desenvolvendo aplicações com amigos. Eu adoro aprender sempre mais e sonho em trabalhar na Área, poder desenvolver e ajudar em muitas aplicações.</p>
+<p>Oi me chamo Guilherme Bernardo, eu sou um Técnico de Informatica estou terminando o ultimo ano do ensino médio. </p>
+  
+<p>Já faz alguns anos que eu venho estudando e desenvolvendo aplicações com amigos. Eu adoro aprender sempre mais e sonho em trabalhar na Área, poder desenvolver e ajudar em muitas aplicações.</p>
