@@ -5,7 +5,7 @@
 <p> <strong>Desenvolvedor Mobile:</strong> React native - Java - Ionic </p>
 <p> <strong>Desenvolvedor Desktop:</strong> Electron - Java </p>
   
-[![Twitter Badge](https://img.shields.io/badge/-@Guilherme_Bernardo-292929?style=for-the-badge&labelColor=292929&logo=facebook&logoColor=white&link=https://facebook.com/)](https://www.facebook.com/guilherme.bernardo.5682/)
+[![Twitter Badge](https://img.shields.io/badge/-Guilherme_Bernardo-292929?style=for-the-badge&labelColor=292929&logo=facebook&logoColor=white&link=https://facebook.com/)](https://www.facebook.com/guilherme.bernardo.5682/)
   
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme_Bernardo-292929?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-bernardo-silva-789217194/)](https://www.linkedin.com/in/guilherme-bernardo-silva-789217194/)
 
