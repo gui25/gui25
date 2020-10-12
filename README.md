@@ -1,7 +1,7 @@
 <h1>Guilherme Bernardo</h1>
 
 <p> <strong>Técnico de Informatica - Desenvolvedor web - Mobile - Desktop </strong> </p>
-<p> <strong>Desenvolvedor web:<strong> PHP - Node js - React - Javascript - Html - css - bootstrap - Materialize </p>
+<p> <strong>Desenvolvedor web:<strong> PHP - Node js - React - Javascript - Html - CSS - Bootstrap - Materialize </p>
 <p> <strong>Desenvolvedor Mobile:</strong> React native - Java - Ionic </p>
 <p> <strong>Desenvolvedor Desktop:</strong> Electron - Java </p>
   
