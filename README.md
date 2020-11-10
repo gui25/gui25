@@ -1,8 +1,8 @@
 <h1>Guilherme Bernardo</h1>
 
 <p> <strong>Técnico de Informatica - Desenvolvedor web - Mobile - Desktop </strong> </p>
-<p> <strong>Desenvolvedor web:<strong> PHP - Node js - React - Javascript - Html - CSS - Bootstrap - Materialize </p>
-<p> <strong>Desenvolvedor Mobile:</strong> React native - Java - Ionic </p>
+<p> <strong>Desenvolvedor web:<strong> PHP - Node js - Flutter - Next JS- React - Javascript - Html - CSS - Bootstrap - Materialize </p>
+<p> <strong>Desenvolvedor Mobile:</strong> React native - Java - Ionic - Flutter </p>
 <p> <strong>Desenvolvedor Desktop:</strong> Electron - Java - Python</p>
   
 [![Facebook Badge](https://img.shields.io/badge/-Guilherme_Bernardo-292929?style=for-the-badge&labelColor=292929&logo=facebook&logoColor=white&link=https://facebook.com/)](https://www.facebook.com/guilherme.bernardo.5682/)
