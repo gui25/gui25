@@ -1,7 +1,7 @@
 <h1>Guilherme Bernardo</h1>
 
 <p> <strong>Técnico de Informatica - Desenvolvedor web - Mobile - Desktop </strong> </p>
-<p> <strong>Desenvolvedor web:<strong> Node js - Next JS- React - Javascript - PHP - Html - CSS - Bootstrap - Material UI - Gatsby - Hugo </p>
+<p> <strong>Desenvolvedor web:<strong> Node js - Next JS - React - Javascript - PHP - Html - CSS - Bootstrap - Material UI - Gatsby - Hugo </p>
 <p> <strong>Desenvolvedor Mobile:</strong> React native - Java - Ionic - Flutter </p>
 <p> <strong>Desenvolvedor Desktop:</strong> Electron - Java - Python</p>
   
