@@ -7,4 +7,4 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme_Bernardo-292929?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-bernardo-silva-789217194/)](https://www.linkedin.com/in/guilherme-bernardo-silva-789217194/)
 
-[![Website](https://img.shields.io/badge/-Portifólio-292929?style=for-the-badge&link=https://gui25.github.io/main/)](https://gui25.github.io/main/) 
+[![Website](https://img.shields.io/badge/-Portfolio-292929?style=for-the-badge&link=https://gui25.github.io/main/)](https://gui25.github.io/main/) 
