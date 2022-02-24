@@ -7,7 +7,7 @@
 <p> > I'm 19 years old and I started programming when I was 14.</p>
 
 <p> > I've worked on projects using:</p>
-<p> { React, Javascript, Next JS, Html, CSS, Sass, Styled-components, Redux, Gatsby.js, Hugo }</p>
+<p><strong> { React, Javascript, Next JS, Html, CSS, Sass, Styled-components, Redux, Gatsby.js, Hugo }</p>
 
 <p> > I became a computer technician, I am studying computer science.</p>
 
@@ -16,8 +16,6 @@
 <p> > I know about tests using Jest and Cypress, good practices like being objective and clear among other clean code practices.</p>
 
 <p> > I am able to communicate in English.</p>
-
-<p><strong> React - Javascript - Next JS - Html - CSS - Sass - Styled-components - redux - Gatsby.js - Hugo </p>
   
 [![Facebook Badge](https://img.shields.io/badge/-Guilherme_Bernardo-292929?style=for-the-badge&labelColor=292929&logo=facebook&logoColor=white&link=https://facebook.com/)](https://www.facebook.com/guilherme.bernardo.5682/)
   
