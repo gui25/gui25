@@ -1,5 +1,5 @@
 <h1>Guilherme Bernardo Silva</h1>
-<p>Hello, I'm a web developer specialized in React Development, structuring systems, styling using Sass or Styled components, testing using Cypress and Jest.</p>
+<p>I'm a web developer specialized in React Development, structuring systems, styling using Sass or Styled components, testing using Cypress and Jest.</p>
 
 <p><strong> React - Javascript - Next JS - Html - CSS - Sass - Styled-components - redux - Gatsby.js - Hugo </p>
   
