@@ -4,8 +4,6 @@
 
 <p> > I'm a React Frontend Web Developer</p>
 
-<p> > I'm 20 years old and I started programming when I was 14.</p>
-
 <p> > I've worked on projects using:</p>
 <p><strong> { React, Javascript, Typescript, Next JS, Html, CSS, Sass, Styled-components, Redux, Gatsby.js, Ruby, Node JS }</p>
 
