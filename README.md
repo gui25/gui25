@@ -4,7 +4,7 @@ I'm Guilherme Bernardo Silva, a dedicated React Frontend Web Developer passionat
 
 ## About Me
 
-🚀 I'm a React Frontend Web Developer passionate about creating interactive and engaging user interfaces. Currently pursuing a degree in Computer Science after becoming a computer technician.
+I'm a React Frontend Web Developer passionate about creating interactive and engaging user interfaces. Currently pursuing a degree in Computer Science after becoming a computer technician. 🚀 
 
 ### Technologies I work with:
 
