@@ -15,8 +15,6 @@ I'm a React Frontend Web Developer passionate about creating interactive and eng
 - Storybook for component-driven development
 - Vite and Webpack for frontend tooling
 
-💻 I specialize in CSS styling with Styled-components and Sass. Proficient in writing tests using Jest and Cypress. Advocate of clean code practices and maintaining clear, objective code.
-
 ## Skills
 
 ### Frontend Development
