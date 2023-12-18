@@ -49,7 +49,6 @@ I'm Guilherme Bernardo Silva, a dedicated React Frontend Web Developer passionat
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/-Clean_Code-008000?style=for-the-badge)
 
-## Let's Connect
+## Connect with me on LinkedIn:
 
-Connect with me on LinkedIn:
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme_Bernardo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-bernardo-silva-789217194/)](https://www.linkedin.com/in/guilherme-bernardo-silva-789217194/)
