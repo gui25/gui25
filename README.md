@@ -4,19 +4,18 @@ I'm Guilherme Bernardo Silva, a dedicated React Frontend Web Developer passionat
 
 ## About Me
 
-- 🚀 I'm a React Frontend Web Developer passionate about creating interactive and engaging user interfaces.
-- 👨‍💻 I've worked on projects using technologies like:
-  - React, JavaScript, TypeScript, Next.js
-  - HTML, CSS, Sass, Styled-components
-  - Redux, Gatsby.js, Ruby, Node.js, GraphQL
-  - Docker for containerization
-  - Storybook for component-driven development
-  - Vite for fast frontend tooling
-  - Webpack for module bundling
-- 🎓 Currently pursuing a degree in Computer Science after becoming a computer technician.
-- 💻 I specialize in CSS styling with Styled-components and Sass.
-- ✔️ Proficient in writing tests using Jest and Cypress.
-- 💡 Advocate of clean code practices and maintaining clear, objective code.
+🚀 I'm a React Frontend Web Developer passionate about creating interactive and engaging user interfaces. Currently pursuing a degree in Computer Science after becoming a computer technician.
+
+### Technologies I work with:
+
+- React, JavaScript, TypeScript, Next.js
+- HTML, CSS, Sass, Styled-components
+- Redux, Gatsby.js, Ruby, Node.js, GraphQL
+- Docker for containerization
+- Storybook for component-driven development
+- Vite and Webpack for frontend tooling
+
+💻 I specialize in CSS styling with Styled-components and Sass. Proficient in writing tests using Jest and Cypress. Advocate of clean code practices and maintaining clear, objective code.
 
 ## Skills
 
